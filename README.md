@@ -1,5 +1,5 @@
 # Lenovo-Yoga-C740-14IML-Ventura-Hackintosh-EFI
-Hello, I made a EFI on my Lenovo Yoga C740 14IML and decided I wanted to share it. Most things work but not everything. the apple eco-system works except Airdrop as my WiFi card isn't supported, however, this can be solved using a Broadcom WiFi card supported which is supported by Apple.
+Hello, I made a EFI on my Lenovo Yoga C740 14IML and decided I wanted to share it. Most things work but not everything. The apple eco-system works except Airdrop as my WiFi card isn't supported, however, this can be solved using a Broadcom WiFi card supported which is supported by Apple.
 
 # :warning: YOU MUST SET YOUR OWN SMBIOS IN EFI>OC>CONFIG.PLIST FOR iMESSAGE AND FACETIME TO WORK! (look up a youtube video)
 
