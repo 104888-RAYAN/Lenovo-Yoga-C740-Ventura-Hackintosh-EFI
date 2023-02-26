@@ -17,8 +17,6 @@ Hello, I made a EFI on my Lenovo Yoga C740 14IML and decided I wanted to share i
 | Network Card | Intel Wireless-AC 9560 |
 | Display | Lenovo FHD Display 1920x1080 |
 
---------
-
 # **Problems**
 
 - Touchscreen dosen't work
